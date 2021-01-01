@@ -1,0 +1,1 @@
+Google homepage clone made as a part of https://www.theodinproject.com/ training.
